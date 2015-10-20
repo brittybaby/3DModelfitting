@@ -1,0 +1,13 @@
+git init -> Initialize repo
+git add --all -> add all files
+git commit -am "Status message" -> commit changes
+git push origin master -> push to internet
+git pull origin master -> pull from internet
+
+git log   -> shows log of commits
+git status -> shows changes after last commit
+
+// set up repository on internet
+
+git remote -v
+git remote add origin url.git

@@ -1,0 +1,9 @@
+{
+    "root": {
+        "obj-file": "Needle_Holder.obj",
+        "mtl-file": "Needle_Holder.mtl",
+        "tex-file": "texture_translucent.png",
+        "articulated": false,
+        "children": []
+    }
+}
